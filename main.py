@@ -22,7 +22,7 @@ CONFIG = {
     "movement_pin_gpio": 12,
     "client_id": b"esp8266_" + ubinascii.hexlify(machine.unique_id()),
     "topic": b"home",
-    "ssid": "ortigi",
+    "ssid": "**********",
 }
 
 #Global variables
