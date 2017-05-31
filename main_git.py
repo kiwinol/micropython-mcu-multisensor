@@ -1,3 +1,7 @@
+#Some of my own code and a lot of borrowed code from the following:
+#https://home-assistant.io/blog/2016/08/31/esp8266-and-micropython-part2/
+#http://micropython-on-esp8266-workshop.readthedocs.io/en/latest/index.html
+
 import machine
 import time
 import ubinascii
